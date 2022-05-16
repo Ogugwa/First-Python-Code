@@ -1,0 +1,5 @@
+#In this file i'm basically printing words a storyline in python
+print("Hello World")
+print("Am glad i'm learning python\n never thought i could learn any coding language")
+#basically \n is used to start a new line in python
+#i can go on and on but i'll stop here for now
